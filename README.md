@@ -45,9 +45,8 @@ RegisterNumber: 22008592
 ```
 
 ## Output:
-![lu decomposition]()
+![lu decomposition](./out1.jpg)
 
-
+![lu decomposition](./out2.jpg)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
-
